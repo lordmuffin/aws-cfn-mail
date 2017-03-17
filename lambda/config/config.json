@@ -1,9 +1,0 @@
-{
-  "Parameters" : {
-    "Name": "Mail",
-    "AdminPassword": "P@$$W0rd1",
-    "KeyPairName": "mail",
-    "VPCS3BucketName": "mail",
-    "SourceCidrForRDP": "0.0.0.0/0"
-  }
-}
